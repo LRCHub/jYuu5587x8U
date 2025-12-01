@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【OffVocal】Siip - scenario【ニコカラ】【instrumental】【カラオケ】",
+  "base_artist": "Snap Records【Offvocal化世界最速】",
+  "createdAt": "2025-12-01T08:31:00.150379Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Siip",
+      "artist": "えのりん",
+      "has_synced": false,
+      "path": "select/pl_01_Siip_えのりん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Siipiveikko (Iltapunssi-versio)",
+      "artist": "えのりん",
+      "has_synced": false,
+      "path": "select/pl_02_Siipiveikko_(Iltapunssi-versio)_えのりん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Siipiveikko",
+      "artist": "えのりん",
+      "has_synced": false,
+      "path": "select/pl_03_Siipiveikko_えのりん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Siipiratas",
+      "artist": "えのりん",
+      "has_synced": false,
+      "path": "select/pl_04_Siipiratas_えのりん.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Siipeen Jos Sain",
+      "artist": "えのりん",
+      "has_synced": false,
+      "path": "select/pl_05_Siipeen_Jos_Sain_えのりん.txt"
+    }
+  ]
+}
